@@ -1,0 +1,14 @@
+pandas
+numpy
+scikit-learn
+nltk
+flask
+streamlit
+matplotlib
+seaborn
+wordcloud
+joblib
+python-docx
+requests
+nbformat
+ipykernel
